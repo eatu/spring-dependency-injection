@@ -5,6 +5,7 @@ import org.springframework.context.annotation.*;
 import com.eatu.spring.di.config.*;
 import com.eatu.spring.di.dispatcher.*;
 
+// comment
 public class MainApplication {
 
     public static void main(String[] args){
