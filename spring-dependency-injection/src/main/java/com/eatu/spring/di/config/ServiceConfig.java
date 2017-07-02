@@ -14,6 +14,6 @@ public class ServiceConfig {
 
     @Bean
     public MessageService getService(){
-        return new TextService();
+        return new PodService();
     }
 }
