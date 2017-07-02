@@ -10,6 +10,6 @@ public class ServiceConfig {
 
     @Bean
     public MessageService getService(){
-        return new EmailService();
+        return new PodService();
     }
 }
